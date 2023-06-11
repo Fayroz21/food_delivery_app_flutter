@@ -1,7 +1,7 @@
 # food_delivery_app
 
 A new Flutter project.
-# Project Still in Progress...
+Porject is Still in Progress...
 ## Getting Started
 
 This project is a starting point for a Flutter application.
